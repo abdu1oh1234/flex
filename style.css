@@ -1,0 +1,98 @@
+* {
+  padding: 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+  color: inherit;
+  list-style: none;
+  text-decoration: none;
+}
+body {
+  background-color: rgb(38, 33, 61);
+}
+.text1 {
+  color: white;
+  justify-content: space-around;
+  border-radius: 20px;
+  display: flex;
+  margin-top: 46px;
+  text-align: center;
+}
+.text2 {
+  background-color: red;
+  border-radius: 20px;
+  font-size: 20px;
+  width: 150px;
+  height: 25px;
+}
+.text3 {
+  background-color: red;
+  border-radius: 20px;
+  font-size: 20px;
+  width: 150px;
+  height: 25px;
+}
+.text4 {
+  background-color: red;
+  border-radius: 20px;
+  font-size: 20px;
+  width: 150px;
+  height: 25px;
+}
+.text5 {
+  background-color: red;
+  border-radius: 20px;
+  font-size: 20px;
+  width: 150px;
+  height: 25px;
+}
+.rasm1 {
+  margin-left: 130px;
+  margin-top: 70px;
+  width: 400px;
+}
+.rasm2 {
+  width: 390px;
+  margin-left: 200px;
+}
+.FLEX1 {
+  background-color: black;
+  align-items: center;
+  color: white;
+  border-radius: 20px;
+  width: 150px;
+  text-align: center;
+  height: 60px;
+  padding-top: 10px;
+  margin-top: 30px;
+}
+.lorem1 {
+  background-color: red;
+  width: 200px;
+  border-radius: 20px;
+  height: 130px;
+ margin-left: 150px;
+ padding-top: 30px;
+margin-top: 20px;
+display: block;
+
+
+}
+.lorem2 {
+  background-color: green;
+  width: 140px;
+  text-align: center;
+}
+.lorem3 {
+    background-color: red;
+    width: 200px;
+    border-radius: 20px;
+    height: 130px;
+    margin-left: 600px;
+    padding-top: 30px;
+margin-bottom: 100px;
+}
+  .lorem4 {
+    background-color: green;
+    width: 140px;
+    text-align: center;
+  }
